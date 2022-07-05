@@ -13,3 +13,4 @@ This project focused on creating a dashboard that is interactive, aswell as visu
 - Plotly
 
 # Link to my Belly Button BioDiversity dashboard
+https://fertigrm.github.io/Belly-Button-BioDiversity/
